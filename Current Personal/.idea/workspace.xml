@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6cea703-e5a3-48af-8b0e-89112926b917" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Google Image Metadata/Tester Photos/1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Google Image Metadata/Tester Photos/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Google Image Metadata/Tester Photos/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Google Image Metadata/main.py" beforeDir="false" />
+    <list default="true" id="bb06756a-08cf-49a3-ba3c-5b392cdc1486" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,19 +20,19 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2EZN3gGMLIHXzksoaolzsHKzEJ3" />
+  <component name="ProjectId" id="2FFuDXWl487k2VVUzRQoZYC7F6E" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.pathVariables"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Current Personal" />
@@ -60,11 +59,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b6cea703-e5a3-48af-8b0e-89112926b917" name="Changes" comment="" />
-      <created>1662798949006</created>
+      <changelist id="bb06756a-08cf-49a3-ba3c-5b392cdc1486" name="Changes" comment="" />
+      <created>1664100034242</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1662798949006</updated>
+      <updated>1664100034242</updated>
     </task>
     <servers />
   </component>
