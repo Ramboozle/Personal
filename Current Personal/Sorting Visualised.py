@@ -11,3 +11,5 @@ def quicksort(arr):
         else:
             less.append(number)
     return(quicksort(less)+[pivot]+quicksort((greater)))
+import winsound
+winsound.Beep(17000, 100)
