@@ -89,3 +89,4 @@ but6.grid(row=2,column=2,sticky=tk.W+tk.E)
 frame.pack(fill='x') #packs everything in the frame object
 #~~~~~~~~~~Opening Window~~~~~~~~~~#
 root.mainloop() #opens 'root' as a window
+#~~~~~~~~~~Opening Window~~~~~~~~~~#
