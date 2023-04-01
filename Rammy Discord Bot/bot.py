@@ -1,5 +1,3 @@
-# This example requires the 'message_content' intent.
-
 with open("token.txt", "r") as f:
     token = f.read()
 
