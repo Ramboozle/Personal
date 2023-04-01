@@ -1,3 +1,7 @@
+print('this file can cause some damage if used in the incorrect place. type "yes" to continue')
+if input != yes:
+  break
+
 import datetime
 import pathlib
 for i in pathlib.Path().iterdir():
