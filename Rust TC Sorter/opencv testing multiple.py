@@ -1,16 +1,15 @@
 import numpy as np
 import cv2 as cv #Version 4.8.0Users
-import os
 
 source_file = 'C:/Users/oniel/iCloudDrive/Coding/Personal/Rust TC Sorter/Test images/fso2.png'
-image_2find = 'C:/Users/oniel/iCloudDrive/Coding/Personal/Rust TC Sorter/metal.png'
+image_2find = 'C:/Users/oniel/iCloudDrive/Coding/Personal/Rust TC Sorter/hqm.png'
 
 original_img = cv.imread(source_file,cv.IMREAD_COLOR)
 stone_img = cv.imread(image_2find,cv.IMREAD_COLOR)
 
 result = cv.matchTemplate(original_img,stone_img,cv.TM_CCOEFF_NORMED)
 
-threashold = 0.6  # above 60% confidence
+threashold = 0.6 # above 60% confidence
 locations = np.where(result >= threashold) # Finds all the locations(in the array) where the confidence is above the threashold
 locations = list(zip(*locations[::-1]))
 
