@@ -1,2 +1,2 @@
 # Rust Inventory sorter
-this programs aims to look at a rust players inventory / chests and will use cv to find whats inside of them and organise them accourdingly using mouse inputs
+this programs aims to look at a rust players inventory / chests and will use cv to find whats inside of them and organise them accourdingly using mouse inputs. The program can only do one inventory (excluding the players) at a time at the moment 
